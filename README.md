@@ -4,7 +4,7 @@
 
 ### Setup
 
-1.  Place the task1\_analysis.py script in a project folder.
+1.  Place the Analysis.py script in a project folder.
     
 2.  Place the dataset data.csv in the same folder.
     
@@ -15,7 +15,7 @@ Navigate to the project folder in your terminal and run the script:
 
 Bash
 
-`   python task1_analysis.py   `
+`   python Analysis.py   `
 
 ### Outputs
 
